@@ -6,4 +6,20 @@
 这个库会帮助你学习Vue 3 + TypeScript的技术，里面包含许多案例和基础教学，全方位提升你的前端开发能力。
 </p>
 
-<p></p>
+<p>
+![GitHub License](https://img.shields.io/github/license/mqxu/vue3-ts-docs)
+![GitHub Stars](https://img.shields.io/github/stars/mqxu/vue3-ts-docs)
+![GitHub Forks](https://img.shields.io/github/forks/mqxu/vue3-ts-docs)
+![Build Status](https://img.shields.io/github/workflow/status/mqxu/vue3-ts-docs/CI)
+![NPM Version](https://img.shields.io/npm/v/vue)
+![NPM Downloads](https://img.shields.io/npm/dw/vue)
+![Maintenance](https://img.shields.io/maintenance/yes/2024)
+</p>
+
+## 🔥 features
+
+从头开始，循序渐进地学习 Vue 3和 TypeScript。
+
+- 涵盖从组件设计到代码优化的实际开发经验。
+- 通过VitePress和TypeScript，快速搭建高效、可维护的 Vue 3应用
+
