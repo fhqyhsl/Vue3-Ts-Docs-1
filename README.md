@@ -15,12 +15,14 @@
 ![NPM Version](https://img.shields.io/npm/v/vue3-ts-docs) 
 ![NPM Downloads](https://img.shields.io/npm/dm/vue3-ts-docs) 
 ![Maintenance](https://img.shields.io/maintenance/yes/2024) 
+
+
 </p>
 
 ## 🔥 features
 
 从头开始，循序渐进地学习 Vue 3和 TypeScript。
 
-- 涵盖从组件设计到代码优化的实际开发经验。
-- 通过VitePress和TypeScript，快速搭建高效、可维护的 Vue 3应用
+- 从头开始，学习 Vue 3 和 TypeScript
+- 学习文档，从零开始构建一个 Vue 3 + TypeScript 项目
 
