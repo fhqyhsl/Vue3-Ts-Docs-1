@@ -7,13 +7,13 @@
 </p>
 
 <p>
-![GitHub License](https://img.shields.io/github/license/mqxu/vue3-ts-docs)
-![GitHub Stars](https://img.shields.io/github/stars/mqxu/vue3-ts-docs)
-![GitHub Forks](https://img.shields.io/github/forks/mqxu/vue3-ts-docs)
-![Build Status](https://img.shields.io/github/workflow/status/mqxu/vue3-ts-docs/CI)
-![NPM Version](https://img.shields.io/npm/v/vue)
-![NPM Downloads](https://img.shields.io/npm/dw/vue)
-![Maintenance](https://img.shields.io/maintenance/yes/2024)
+![GitHub License](https://img.shields.io/github/license/mqxu/vue3-ts-docs) 
+![GitHub Stars](https://img.shields.io/github/stars/mqxu/vue3-ts-docs) 
+![GitHub Forks](https://img.shields.io/github/forks/mqxu/vue3-ts-docs) 
+![Build Status](https://img.shields.io/github/workflow/status/mqxu/vue3-ts-docs/CI) 
+![NPM Version](https://img.shields.io/npm/v/vue3-ts-docs) 
+![NPM Downloads](https://img.shields.io/npm/dm/vue3-ts-docs) 
+![Maintenance](https://img.shields.io/maintenance/yes/2024) 
 </p>
 
 ## 🔥 features
